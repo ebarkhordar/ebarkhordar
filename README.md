@@ -31,10 +31,25 @@
 
 <div align="center">
   <a href="https://github.com/ebarkhordar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebarkhordar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://raw.githubusercontent.com/ebarkhordar/ebarkhordar/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ebarkhordar">
+    <img height="180em" src="https://raw.githubusercontent.com/ebarkhordar/ebarkhordar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
   </a>
   <a href="https://github.com/ebarkhordar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebarkhordar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://raw.githubusercontent.com/ebarkhordar/ebarkhordar/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ebarkhordar">
+    <img height="180em" src="https://raw.githubusercontent.com/ebarkhordar/ebarkhordar/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ebarkhordar">
+    <img height="180em" src="https://raw.githubusercontent.com/ebarkhordar/ebarkhordar/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
   </a>
 </div>
 
