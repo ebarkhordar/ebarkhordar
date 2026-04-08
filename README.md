@@ -27,25 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ebarkhordar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebarkhordar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ebarkhordar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebarkhordar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ebarkhordar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebarkhordar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -66,17 +47,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-```text
-🔬 Research       NLP & Computational Social Science
-🎓 Education      M.Sc. Computer Science @ Koç University
-💬 Ask me about   Bias Detection, Hate Speech Detection, Multilingual NLP
-📝 Publications   scholar.google.com/citations?user=rhsSW1gAAAAJ
-```
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -90,22 +60,8 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 💡 Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
-*Exploring language, bias, and society through the lens of NLP.*
 
 </div>
