@@ -30,11 +30,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/ebarkhordar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebarkhordar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ebarkhordar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebarkhordar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebarkhordar&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/ebarkhordar)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebarkhordar&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ebarkhordar)
-
+<div align="center">
+  <a href="https://github.com/ebarkhordar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebarkhordar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -44,6 +51,16 @@
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ebarkhordar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ebarkhordar/ebarkhordar/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
