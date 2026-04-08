@@ -27,6 +27,25 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/ebarkhordar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebarkhordar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ebarkhordar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebarkhordar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ebarkhordar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebarkhordar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -57,11 +76,5 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5990-6091)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebarkhordar23@ku.edu.tr)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ebarkhordar.github.io)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 </div>
