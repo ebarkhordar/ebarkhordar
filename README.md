@@ -2,11 +2,10 @@
 
 # Hi there, I'm Ehsan Barkhordar 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=NLP+%26+Computational+Social+Science;Bias+%26+Hate+Speech+Detection;Multilingual+NLP+Researcher;M.Sc.+Computer+Science+%40+Ko%C3%A7+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Python+Backend+Engineer;LLM+Agent+Infrastructure;Open+Source+Contributor;Multilingual+NLP+Researcher)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/ebarkhordar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ebarkhordar)
 [![GitHub User's stars](https://img.shields.io/github/stars/ebarkhordar?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/ebarkhordar)
-[![Profile Views](https://komarev.com/ghpvc/?username=ebarkhordar&style=for-the-badge&color=blueviolet)](https://github.com/ebarkhordar)
 
 </div>
 
@@ -20,10 +19,22 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
+---
+
+## 🔧 Recent Upstream Work
+
+- [changedetection.io #4249](https://github.com/dgtlmoon/changedetection.io/pull/4249): made the `restock` notification token safe outside restock watches **(merged)**
+- [local-deep-research #5062](https://github.com/LearningCircuit/local-deep-research/pull/5062): FAISS cosine scores were inverting the search ranking (in review)
+- [swarms #1712](https://github.com/kyegomez/swarms/pull/1712): stop sending empty text blocks to Anthropic on image-only vision calls (in review)
+- [llama_index #22333](https://github.com/run-llama/llama_index/pull/22333), [#22337](https://github.com/run-llama/llama_index/pull/22337): LLM adapter fixes for Cohere and SambaNova (in review)
+- [camel #4170](https://github.com/camel-ai/camel/pull/4170): Hermes ShareGPT round-trip was dropping tool-call arguments (in review)
 
 ---
 
@@ -90,6 +101,6 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=rhsSW1gAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5990-6091)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebarkhordar23@ku.edu.tr)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ebarkhordar.github.io)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ebarkhordar.com)
 
 </div>
